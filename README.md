@@ -1,5 +1,4 @@
 ### Hello There 🖖 I'm Alexandre Pedro
-[![Linkedin Badge](https://www.linkedin.com/in/alexandre-da-costa-pedro-a319b62b/)
 
 I'm a Chemical Engineer, and a Certified Tech Developer from Digital House Brazil
 
