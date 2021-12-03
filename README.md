@@ -72,7 +72,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
-    <img src="https://static.cdnlogo.com/logos/a/30/amazon-web-services.svg" alt="aws" width="40" height="40" />
+    <img src="https://static.cdnlogo.com/logos/a/30/amazon-web-services.svg" alt="aws" width="80" height="80" />
   </a>   
 </p>
 
