@@ -100,7 +100,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
   </a>
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/15613246/Robot-framework-logo.png" alt="robot framework" width="40" height="40" />
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/15613246/Robot-framework-logo.png" alt="robot framework" width="60" height="60" />
   </a>
 </p>
 
