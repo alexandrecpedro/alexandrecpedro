@@ -79,7 +79,10 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
     <img src="https://static.cdnlogo.com/logos/a/30/amazon-web-services.svg" alt="aws" width="80" height="80" />
-  </a>   
+  </a>  
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="azure" width="80" height="80" />
+  </a> 
 </p>
 
 #### Databases
