@@ -81,7 +81,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://static.cdnlogo.com/logos/a/30/amazon-web-services.svg" alt="aws" width="80" height="80" />
   </a>  
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="azure" width="40" height="40" />
+    <img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" alt="azure" width="40" height="40" />
   </a> 
 </p>
 
