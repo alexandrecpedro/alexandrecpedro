@@ -27,7 +27,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" />
   </a>
   <a href="https://www.scilab.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.scilab.org/themes/bs4esi/img/scilab-logo.png?v20201103" alt="scilab" width="40" height="40" />
+    <img src="https://labfree.files.wordpress.com/2010/07/scilab_logo.gif" alt="scilab" width="40" height="40" />
   </a>
 </p>
 
