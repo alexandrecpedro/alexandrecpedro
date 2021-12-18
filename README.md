@@ -26,6 +26,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" />
   </a>
+  <a href="https://www.scilab.org/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/201/774/png-transparent-scilab-computer-software-labview-matlab-open-source-software-assalamu-alaikum-text-logo-source-code.png" alt="scilab" width="40" height="40" />
+  </a>
 </p>
 
 #### Frontend Development
