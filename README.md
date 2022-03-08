@@ -131,12 +131,14 @@ I **love** to write these amazing pieces of ✨magic called software.
 </p>
 
 ### 👨‍💻 My current focus 
-Currently I'm focused on getting really good with the React/Node stack to build amazing apps!
+Currently I'm focused on getting really good with the React/Node stack to build amazing apps and Kotlin/Java, for mobile apps!
  - [x] HTML5
  - [x] CSS3 - Flexbox, Grid and Animations
  - [x] Sass
  - [x] Pure Modern JavaScript ES6+
  - [x] Node.js
+ - [x] Java
+ - [ ] (Currently Learning) Spring Boot
  - [ ] (Currently Learning) React.js
  - [ ] (Currently Learning) Kotlin
  - [ ] Swift (iOS)
