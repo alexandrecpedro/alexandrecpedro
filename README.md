@@ -95,7 +95,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
   </a>
   <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer">
-    <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="h2 database" width="40" height="40" />
+    <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="h2 database" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
