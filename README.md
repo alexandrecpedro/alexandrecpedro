@@ -11,28 +11,18 @@ I **love** to write these amazing pieces of ✨magic called software.
 #### Programming Languages
 
 <p align="left">
-  <article>
-    <p>Python - </p><a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-  </article>
-  <article>
-    <p>Java - </p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-  </article>
-  <article>
-    <p>JavaScript (JS)</p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-  </article>
-  <article>
-    <p>Kotlin</p>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" width="40" height="40" />
-    </a>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+      <p>Kotlin - </p><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" width="40" height="40" />
+  </a>
   </article>
   <article>
     <p>MatLab</p>
