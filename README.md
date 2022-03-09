@@ -107,6 +107,14 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
 </p>
 
+#### Business Analytics & Business Intelligence
+
+<p align="left">
+  <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer">
+    <img src="https://www.sas.com/pt_br/navigation/header/global-header/_jcr_content/par/styledcontainer_3b8d/par/image_baf8.img.png/1484576145415.png" alt="SAS" height="40" />
+  </a>
+</p>
+
 #### Testing & Automation
 
 <p align="left">
