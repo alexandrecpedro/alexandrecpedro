@@ -20,9 +20,6 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" height="40" />
-  </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" />
   </a>
@@ -65,6 +62,14 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+</p>
+
+#### Mobile Apps Development
+
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" height="40" />
   </a>
 </p>
 
