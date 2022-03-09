@@ -111,7 +111,7 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 <p align="left">
   <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer">
-    <img src="https://www.sas.com/pt_br/navigation/header/global-header/_jcr_content/par/styledcontainer_3b8d/par/image_baf8.img.png/1484576145415.png" alt="SAS" height="40" />
+    <img src="https://www.google.com/search?q=sas+software+logo&sxsrf=APq-WBspRaBdw8MHaegFHyykZjB930t5PA:1646785693637&tbm=isch&source=iu&ictx=1&vet=1&fir=tQF1Gpnjv-znFM%252C8gM81FugPCyoWM%252C_%253B8paCwfINAa6C9M%252C37GgyNQh8DZabM%252C_%253B78aC1qdHwcAKlM%252Cd_189AIW96z_sM%252C_%253BOpGI0mFmnFFOdM%252C7Tv73h_jMho6HM%252C_%253BML8aXPTSI9387M%252CdI81xmG5-PTZBM%252C_%253BgS-lAc-NeveQVM%252C5urLHuJ0mBlWmM%252C_%253BX_UcJxYcHd9JEM%252CYyavxieLxMMuqM%252C_%253BHYP-KMBDtRKX-M%252CgPG_ubDcTOrCfM%252C_%253BoXrO9U288drS6M%252CKHbGp3JcApKfHM%252C_%253BEl7_5UO8gKIvpM%252CtCDHIWoxt0evdM%252C_%253BtUDSqPlArjgxkM%252CTsmE_QMAYZKppM%252C_%253BvHijmidC3GvlyM%252CzoCj9oDzbHCA9M%252C_%253BpDIyGkKBEWDEyM%252CzoCj9oDzbHCA9M%252C_&usg=AI4_-kSJwc-2n-3ufCA9iiN6XFm3iX1NqA&sa=X&ved=2ahUKEwiF16ji4rf2AhVopZUCHTUBAdYQ9QF6BAgNEAE&biw=1280&bih=585&dpr=1#imgrc=8paCwfINAa6C9M" alt="SAS" height="40" />
   </a>
 </p>
 
