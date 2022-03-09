@@ -149,6 +149,7 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] CSS3 - Flexbox, Grid and Animations
  - [x] Sass
  - [x] Pure Modern JavaScript ES6+
+ - [x] Bootstrap 
  - [x] Node.js
  - [x] Java
  - [ ] (Currently Learning) Spring Boot
@@ -158,6 +159,7 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [ ] React Native
  - [ ] Flutter/Dart
  - [ ] Ruby
+ - [ ] TypeScript
 
 ### 🤖 To the future
 - I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! Besides, I have strong theoretical knowledge in single and multivariable calculus, statistics and linear algebra, which altogether are the basis of this area of study. These studies are on hold due to me focusing more on JavaScript Stuff.
