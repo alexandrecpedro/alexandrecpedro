@@ -10,6 +10,17 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 #### Programming Languages
 
+|                                                     That I have some mastery |                                  That I can use at least the basic features |                                                                                        That I'm looking forward to learn |
+| ---------------------------------------------------------------------------: | --------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------: |
+|                 HTML <img src="./assets/html5.svg" alt="html5" height="25"/> |              Next <img src="./assets/nextjs.svg" alt="nextjs" height="25"/> |                                                            C# <img src="./assets/csharp.svg" alt="drawing" height="25"/> |
+|                    CSS <img src="./assets/css3.svg" alt="css3" height="25"/> |        TS <img src="./assets/typescript.svg" alt="typescript" height="25"/> |                                                          .NET <img src="./assets/dotnet.svg" alt="dot net" height="25"/> |
+| Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |  Spring <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" height="25px" /> |                                                                                    |
+|              React <img src="./assets/react.svg" alt="reactjs" height="25"/> | React Native <img src="./assets/react.svg" alt="react native" height="25"/> |                                                                                    |
+|                   Java <img src="./assets/java.svg" alt="java" height="25"/> |            Kotlin <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |                                                                                    |
+|               NODE <img src="./assets/nodejs.svg" alt="nodejs" height="25"/> |            Python <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |                                                                                    |
+|                      GIT <img src="./assets/git.svg" alt="git" height="25"/> |                                                                             |                                                                                    |
+
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -48,6 +59,17 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
 </p>
 
+
+|                                                     That I have some mastery |                                  That I can use at least the basic features |                                                                                        That I'm looking forward to learn |
+| ---------------------------------------------------------------------------: | --------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------: |
+|                 HTML <img src="./assets/html5.svg" alt="html5" height="25"/> |              Next <img src="./assets/nextjs.svg" alt="nextjs" height="25"/> |                                                            C# <img src="./assets/csharp.svg" alt="drawing" height="25"/> |
+|                    CSS <img src="./assets/css3.svg" alt="css3" height="25"/> |        TS <img src="./assets/typescript.svg" alt="typescript" height="25"/> |                                                          .NET <img src="./assets/dotnet.svg" alt="dot net" height="25"/> |
+| Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |  Spring <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" height="25px" /> |                                                                                    |
+|              React <img src="./assets/react.svg" alt="reactjs" height="25"/> | React Native <img src="./assets/react.svg" alt="react native" height="25"/> |                                                                                    |
+|                   Java <img src="./assets/java.svg" alt="java" height="25"/> |            Kotlin <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |                                                                                    |
+|               NODE <img src="./assets/nodejs.svg" alt="nodejs" height="25"/> |            Python <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |                                                                                    |
+|                      GIT <img src="./assets/git.svg" alt="git" height="25"/> |                                                                             |                                                                                    |
+
 #### Backend Development
 
 <p align="left">
@@ -64,6 +86,15 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
 </p>
+
+|                                                     That I have some mastery |                                  That I can use at least the basic features |                                                                                        That I'm looking forward to learn |
+| ---------------------------------------------------------------------------: | --------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------: |
+| Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |  Spring <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="25px" /> |                                                                                    |
+|                   Java <img src="./assets/java.svg" alt="java" height="25"/> | Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="25px" />                                        |                                                                             |
+|               NODE <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> |                                                                             |                                                                             |
+| Postman <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40px" /> |                                                                             |                                                                                    |
+
+
 
 #### Mobile Apps Development
 
