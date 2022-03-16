@@ -69,7 +69,7 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="40" />
   </a>
 </p>
 
