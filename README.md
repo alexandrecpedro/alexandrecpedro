@@ -99,6 +99,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="60" />
   </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" height="60" />
+  </a>
   <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer">
     <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="h2 database" height="60" />
   </a>
@@ -147,7 +150,7 @@ I **love** to write these amazing pieces of ✨magic called software.
 Currently I'm focused on getting really good with the React/Node stack to build amazing apps and Kotlin/Java, for mobile apps!
  - [x] HTML5
  - [x] CSS3 - Flexbox, Grid and Animations
- - [x] Sass
+ - [x] Sass / Scss
  - [x] Pure Modern JavaScript ES6+
  - [x] Bootstrap 
  - [x] Node.js
