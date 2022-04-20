@@ -46,6 +46,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="60" />
   </a>
+  <a href="https://miragejs.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
+  </a>
 </p>
 
 #### Backend Development
@@ -56,9 +59,6 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="60" align-items="center" />
-  </a>
-  <a href="https://miragejs.com" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
