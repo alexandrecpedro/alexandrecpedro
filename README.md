@@ -29,6 +29,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.scilab.org/" target="_blank" rel="noreferrer">
     <img src="http://vignette2.wikia.nocookie.net/ntu-open-source-20/images/1/1e/Logo_scilab.png/revision/latest?cb=20130524084745" alt="scilab" height="60" />
   </a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="groovy" height="60" />
+  </a>
 </p>
 
 #### Frontend Development
@@ -40,10 +43,10 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="60" />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="60" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="60" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -52,7 +55,10 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="60" />
   </a>
-  <a href="https://miragejs.com" target="_blank" rel="noreferrer">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="60" />
+  </a>
+  <a href="https://miragejs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
   </a>
 </p>
@@ -69,7 +75,16 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="60" height="60" />
+  </a>
+  <a href="https://springdoc.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/bbb22-votation-system/blob/main/project/logos/openAPI3.png" alt="openAPI3" width="60" height="60" />
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://jwt.io/img/logo-asset.svg" alt="jwt" width="60" height="60" />
+  </a>
+  <a href="https://postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
   </a>
 </p>
@@ -79,6 +94,12 @@ I **love** to write these amazing pieces of ✨magic called software.
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="60" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" height="60" />
+  </a>
+  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="retrofit" height="60" />
   </a>
 </p>
 
@@ -100,10 +121,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" height="60" />
   </a>
-<!--   <a href="https://robomongo.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="robo3T" height="60" />
-  </a> -->
-  
+  <a href="https://robomongo.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/bbb22-votation-system/blob/main/project/logos/robomongo-3T.png" alt="robo3T" height="60" />
+  </a>
 </p>
 
 #### Databases
@@ -162,6 +182,12 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
+  </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" height="60" />
   </a>
 </p>
 
