@@ -20,6 +20,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="60" />
+  </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="60" />
   </a>
@@ -45,6 +48,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="60" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="60" />
   </a>
   <a href="https://miragejs.com" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
@@ -111,6 +117,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="60" />
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="60" />
+  </a>
 </p>
 
 #### Business Analytics & Business Intelligence
@@ -158,6 +167,8 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] Bootstrap 
  - [x] Node.js
  - [x] Java
+ - [x] TypeScript
+ - [x] Next.js
  - [ ] (Currently Learning) Spring Boot
  - [ ] (Currently Learning) React.js
  - [ ] (Currently Learning) Kotlin
@@ -165,7 +176,6 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [ ] React Native
  - [ ] Flutter/Dart
  - [ ] Ruby
- - [ ] TypeScript
 
 ### 🤖 To the future
 - I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! Besides, I have strong theoretical knowledge in single and multivariable calculus, statistics and linear algebra, which altogether are the basis of this area of study. These studies are on hold due to me focusing more on JavaScript Stuff.
