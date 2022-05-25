@@ -97,6 +97,13 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="60" />
   </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" height="60" />
+  </a>
+<!--   <a href="https://robomongo.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="robo3T" height="60" />
+  </a> -->
+  
 </p>
 
 #### Databases
