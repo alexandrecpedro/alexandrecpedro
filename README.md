@@ -104,6 +104,16 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
     <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="retrofit" height="60" />
   </a>
+<!--   <br>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="react native" height="60" />
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="expo" height="60" />
+  </a>
+  <a href="https://reactnavigation.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="react navigation" height="60" />
+  </a> -->
 </p>
 
 #### Devops
