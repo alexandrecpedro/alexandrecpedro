@@ -176,6 +176,14 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
 </p>
 
+#### Customer Relationship Management (CRM) Tool
+
+<p align="left">
+  <a href="https://www.salesforce.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/resources/campaign-assets/live-long-and-propser/images/logo.png" alt="Salesforce" height="60" />
+  </a>
+</p>
+
 #### Testing & Automation
 
 <p align="left">
