@@ -97,11 +97,11 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png" alt="serverless" height="60" align-items="center" />
   </a>
+  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="80" />
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
-  </a>
-  <a left="40" href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="80" />
   </a>
   <br>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
