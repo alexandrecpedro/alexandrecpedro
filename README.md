@@ -67,6 +67,12 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="60" height="60" />
   </a>
+  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulpjs" width="60" height="60" />
+  </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="60" height="60" />
+  </a>
 </p>
 
 #### Backend Development
@@ -87,6 +93,7 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nest" height="60" align-items="center" />
   </a>
+  <br>
   <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png" alt="serverless" height="60" align-items="center" />
   </a>
@@ -94,8 +101,9 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
   </a>
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="80" />
   </a>
+  <br>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" height="60" />
   </a>
