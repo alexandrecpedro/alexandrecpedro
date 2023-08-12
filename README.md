@@ -61,6 +61,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://miragejs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
   </a>
+  <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="60" height="60" />
+  </a>
 </p>
 
 #### Backend Development
@@ -71,6 +74,18 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="60" align-items="center" />
+  </a>
+  <a href="https://fastify.dev" target="_blank" rel="noreferrer">
+    <img src="https://fastify.dev/img/logos/fastify-black.svg" alt="fastify" height="60" align-items="center" />
+  </a>
+  <a href="https://adonisjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="adonis" height="60" align-items="center" />
+  </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nest" height="60" align-items="center" />
+  </a>
+  <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png" alt="serverless" height="60" align-items="center" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
@@ -143,6 +158,12 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://robomongo.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/alexandrecpedro/bbb22-votation-system/blob/main/project/logos/robomongo-3T.png" alt="robo3T" height="60" />
   </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" height="60" />
+  </a>
+  <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" height="60" />
+  </a>
 </p>
 
 #### Databases
@@ -165,6 +186,12 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="60" />
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="60" />
+  </a>
+  <a href="https://aws.amazon.com/pt/pm/dynamodb" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamo" height="60" />
   </a>
 </p>
 
