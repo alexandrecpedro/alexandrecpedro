@@ -17,6 +17,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="60" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
   </a>
@@ -89,6 +92,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
+  </a>
+  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="60" />
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" height="60" />
@@ -253,9 +259,11 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] Java
  - [x] TypeScript
  - [x] Next.js
- - [ ] (Currently Learning) Spring Boot
- - [ ] (Currently Learning) React.js
- - [ ] (Currently Learning) Kotlin
+ - [x] Spring Boot
+ - [x] React.js
+ - [x] Kotlin
+ - [x] .NET
+ - [x] (Currently Learning) Spring Boot
  - [ ] Swift (iOS)
  - [ ] React Native
  - [ ] Flutter/Dart
