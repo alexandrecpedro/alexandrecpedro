@@ -105,9 +105,6 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://jwt.io/img/logo-asset.svg" alt="jwt" height="60" />
   </a>
-  <a href="https://postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
-  </a>
 </p>
 
 #### Mobile Apps Development
@@ -232,6 +229,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="JUnit" width="60" height="60" />
   </a>
+  <a href="https://postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
+  </a>
 </p>
 
 #### Frequently Used Tools
@@ -263,7 +263,9 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] React.js
  - [x] Kotlin
  - [x] .NET
- - [x] (Currently Learning) Spring Boot
+ - [ ] (Currently Learning) Redis
+ - [ ] (Currently Learning) GraphQL
+ - [ ] (Currently Learning) DynamoDB
  - [ ] Swift (iOS)
  - [ ] React Native
  - [ ] Flutter/Dart
