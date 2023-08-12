@@ -175,6 +175,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" height="60" />
   </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="jenkins" height="60" />
+  </a>
 </p>
 
 #### Databases
