@@ -244,7 +244,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
   </a>
   <a href="https://putsmail.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.litmus.com/wp-content/themes/litmus/dist/images/litmus-logo.svg" alt="putsmail" width="60" />
+    <img src="https://www.litmus.com/wp-content/themes/litmus/dist/images/litmus-logo.svg" alt="putsmail" height="60" />
   </a>
 </p>
 
