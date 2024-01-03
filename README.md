@@ -146,6 +146,7 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://strapi.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/alexandrecpedro/devblog/main/blog/assets/strapi.png" alt="strapi" height="60" />
   </a>
+  <br>
   <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
     <img src="https://files.readme.io/56c2e37-small-onesignal-email-logo.png" alt="onesignal" height="60" />
   </a>
