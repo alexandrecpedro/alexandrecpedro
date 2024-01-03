@@ -238,7 +238,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://gitlab.com/uploads/-/system/project/avatar/15613246/Robot-framework-logo.png" alt="robot framework" width="80" height="80" />
   </a>
   <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="JUnit" width="60" height="60" />
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="60" height="60" />
   </a>
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
