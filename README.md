@@ -53,7 +53,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="60" />
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vitejs" height="60" />
+    <img src="https://vitest.dev/logo-shadow.svg" alt="vitejs" height="60" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="60" />
@@ -99,9 +99,6 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="80" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
