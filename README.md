@@ -156,6 +156,10 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://docs.swmansion.com/react-native-gesture-handler/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/16062886/117444014-2d1ffd80-af39-11eb-9bbb-33c320599d93.png" alt="react native gesture handler" height="60" />
   </a>
+  <br>
+  <a href="https://shopify.github.io/react-native-skia/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/306134/146549218-b7959ad9-0107-4c1c-b439-b96c780f5230.png" alt="react native skia" height="60" />
+  </a>
 </p>
 
 #### Devops
