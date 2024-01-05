@@ -160,6 +160,15 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://shopify.github.io/react-native-skia/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/306134/146549218-b7959ad9-0107-4c1c-b439-b96c780f5230.png" alt="react native skia" height="60" />
   </a>
+  <a href="https://docs.expo.dev/versions/latest/sdk/av/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-av.svg" alt="expo av" height="60" />
+  </a>
+  <a href="https://docs.expo.dev/versions/latest/sdk/av/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-av.svg" alt="expo av" height="60" />
+  </a>
+  <a href="https://docs.expo.dev/versions/latest/sdk/haptics/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-haptics.svg" alt="expo haptics" height="60" />
+  </a>
 </p>
 
 #### Devops
