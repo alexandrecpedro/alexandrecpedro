@@ -150,6 +150,12 @@ I **love** to write these amazing pieces of ✨magic called software.
   <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
     <img src="https://files.readme.io/56c2e37-small-onesignal-email-logo.png" alt="onesignal" height="60" />
   </a>
+  <a href="https://docs.swmansion.com/react-native-reanimated/" target="_blank" rel="noreferrer">
+    <img src="https://docs.swmansion.com/react-native-reanimated/img/logo.svg" alt="react native reanimated" height="60" />
+  </a>
+  <a href="https://docs.swmansion.com/react-native-gesture-handler/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/16062886/117444014-2d1ffd80-af39-11eb-9bbb-33c320599d93.png" alt="react native gesture handler" height="60" />
+  </a>
 </p>
 
 #### Devops
