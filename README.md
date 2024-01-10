@@ -167,6 +167,9 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-haptics.svg" alt="expo haptics" height="60" />
   </a>
   <br>
+  <a href="https://docs.expo.dev/versions/latest/sdk/image/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-image.svg" alt="expo image" height="60" />
+  </a>
   <a href="https://react-native-google-signin.github.io/" target="_blank" rel="noreferrer">
     <img src="https://react-native-google-signin.github.io/img/logo.png" alt="react native google signin" height="60" />
   </a>
