@@ -91,7 +91,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="adonis" height="60" align-items="center" />
   </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nest" height="60" align-items="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nest" height="60" align-items="center" />
   </a>
   <br>
   <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
