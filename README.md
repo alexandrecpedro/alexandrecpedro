@@ -1,324 +1,79 @@
-### Hello There 🖖 I'm Alexandre Pedro
+# Hello 👋, I'm Alexandre Pedro!
 
-I'm a Chemical Engineer, and a Certified Tech Developer from Digital House Brazil
+I am a passionate Full Stack Developer driven by a desire to solve complex challenges and achieve ambitious goals. My journey into programming began after a career as a Chemical Engineer, where I discovered my true calling in transforming innovative ideas into robust software solutions.
 
-I found my true calling working with computers and making them work for me. 
-I **love** to write these amazing pieces of ✨magic called software.
+## About Me
 
----
-### 🧰 Languages and Tools
+I am a Chemical Engineer and a Certified Tech Developer from Digital House Brazil. I thrive on crafting elegant software and am continuously expanding my knowledge in programming.
 
-#### Programming Languages
+- 📍 São Paulo - SP, Brazil
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/alexandre-da-costa-pedro-a319b62b/)
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="60" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="60" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="60" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="60" />
-  </a>
-  <a href="https://www.scilab.org/" target="_blank" rel="noreferrer">
-    <img src="http://vignette2.wikia.nocookie.net/ntu-open-source-20/images/1/1e/Logo_scilab.png/revision/latest?cb=20130524084745" alt="scilab" height="60" />
-  </a>
-</p>
+## Skills and Tools
 
-#### Frontend Development
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-A8200D?style=for-the-badge&logo=scilab&logoColor=white)
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="60" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="60" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="60" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="60" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitest.dev/logo-shadow.svg" alt="vitejs" height="60" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="60" />
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="60" />
-  </a>
-  <a href="https://miragejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/47899903?s=280&v=4" alt="miragejs" width="60" height="60" />
-  </a>
-  <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="60" height="60" />
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulpjs" width="60" height="60" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="60" height="60" />
-  </a>
-</p>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-#### Backend Development
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5757?style=for-the-badge&logo=serverless&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="60" align-items="center" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="60" align-items="center" />
-  </a>
-  <a href="https://fastify.dev" target="_blank" rel="noreferrer">
-    <img src="https://fastify.dev/img/logos/fastify-black.svg" alt="fastify" height="60" align-items="center" />
-  </a>
-  <a href="https://adonisjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="adonis" height="60" align-items="center" />
-  </a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nest" height="60" align-items="center" />
-  </a>
-  <br>
-  <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png" alt="serverless" height="60" align-items="center" />
-  </a>
-  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" height="80" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="60" />
-  </a>
-  <br>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" height="60" />
-  </a>
-  <a href="https://springdoc.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/alexandrecpedro/bbb22-votation-system/blob/main/project/logos/openAPI3.png" alt="openAPI3" height="60" />
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://jwt.io/img/logo-asset.svg" alt="jwt" height="60" />
-  </a>
-</p>
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Mobile Apps Development
+### Databases
+![Redis](https://img.shields.io/badge/Redis-CC292C?style=for-the-badge&logo=redis&logoColor=white) *(Currently learning)*
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) *(Currently learning)*
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) *(Currently learning)*
 
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="60" />
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" height="60" />
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" height="60" />
-  </a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="groovy" height="80" />
-  </a>
-  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/alexandrecpedro/santander-dev-week-bankline-app/blob/main/project/assets/Retrofit.jpeg" alt="retrofit" height="60" />
-  </a>
-  <br>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/alexandrecpedro/devblog/main/blog/assets/reactnative.png" alt="react native" height="60" />
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/alexandrecpedro/devblog/main/blog/assets/expo.png" alt="expo" height="60" />
-  </a>
-  <a href="https://reactnavigation.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/alexandrecpedro/devblog/blob/main/blog/assets/react_navigation.svg" alt="react navigation" height="60" />
-  </a>
-  <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/alexandrecpedro/devblog/main/blog/assets/strapi.png" alt="strapi" height="60" />
-  </a>
-  <br>
-  <a href="https://onesignal.com/" target="_blank" rel="noreferrer">
-    <img src="https://files.readme.io/56c2e37-small-onesignal-email-logo.png" alt="onesignal" height="60" />
-  </a>
-  <a href="https://docs.swmansion.com/react-native-reanimated/" target="_blank" rel="noreferrer">
-    <img src="https://docs.swmansion.com/react-native-reanimated/img/logo.svg" alt="react native reanimated" height="60" />
-  </a>
-  <a href="https://docs.swmansion.com/react-native-gesture-handler/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/16062886/117444014-2d1ffd80-af39-11eb-9bbb-33c320599d93.png" alt="react native gesture handler" height="60" />
-  </a>
-  <br>
-  <a href="https://shopify.github.io/react-native-skia/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/306134/146549218-b7959ad9-0107-4c1c-b439-b96c780f5230.png" alt="react native skia" height="60" />
-  </a>
-  <a href="https://docs.expo.dev/versions/latest/sdk/av/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-av.svg" alt="expo av" height="60" />
-  </a>
-  <a href="https://docs.expo.dev/versions/latest/sdk/haptics/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-haptics.svg" alt="expo haptics" height="60" />
-  </a>
-  <br>
-  <a href="https://docs.expo.dev/versions/latest/sdk/image/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/sdk-49/.github/resources/expo-image.svg" alt="expo image" height="60" />
-  </a>
-  <a href="https://react-native-google-signin.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://react-native-google-signin.github.io/img/logo.png" alt="react native google signin" height="60" />
-  </a>
-</p>
+### Other Tools
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-#### Devops
+## Current Focus
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="60" />
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" height="60" />
-  </a>
-  <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="60" />
-  </a>  
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="60" />
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="render" height="60" />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" height="60" />
-  </a>
-  <a href="https://robomongo.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/alexandrecpedro/bbb22-votation-system/blob/main/project/logos/robomongo-3T.png" alt="robo3T" height="60" />
-  </a>
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" height="60" />
-  </a>
-  <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" height="60" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" height="60" />
-  </a>
-</p>
+My current focus is on mastering the **React/Node** stack to build exceptional applications, alongside advancing my skills in **Kotlin/Java** for mobile development.
 
-#### Databases
+## Featured Projects
 
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="60" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" height="60" />
-  </a>
-  <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer">
-    <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="h2 database" height="60" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="60" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="60" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="60" />
-  </a>
-  <a href="https://aws.amazon.com/pt/pm/dynamodb" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamo" height="60" />
-  </a>
-</p>
+- **[design-system](https://github.com/alexandrecpedro/design-system)**: A comprehensive Design System project (TypeScript)
+- **[code-of-the-future](https://github.com/alexandrecpedro/code-of-the-future)**: Code of the Future Program (CSS)
+- **[real-time-voting-system](https://github.com/alexandrecpedro/real-time-voting-system)**: A real-time voting system built with Node.js, developed during Rocketseat's NLW Expert (TypeScript)
+- **[W3_Wine_Academy](https://github.com/alexandrecpedro/W3_Wine_Academy)**: An integrated project for Digital House coders' course (EJS)
+- **[radar-project](https://github.com/alexandrecpedro/radar-project)**: The Radar Project - Angular (TypeScript)
+- **[spacetime](https://github.com/alexandrecpedro/spacetime)**: A Time Capsule platform for web and mobile, developed during NLW Spacetime (TypeScript)
 
-#### Business Analytics & Business Intelligence
+## Fun Facts
 
-<p align="left">
-  <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png" alt="SAS" height="60" />
-  </a>
-</p>
-
-#### Customer Relationship Management (CRM) Tool
-
-<p align="left">
-  <a href="https://www.salesforce.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/resources/campaign-assets/live-long-and-propser/images/logo.png" alt="Salesforce" height="60" />
-  </a>
-</p>
-
-#### Testing & Automation
-
-<p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" height="60" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60" />
-  </a>
-  <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/15613246/Robot-framework-logo.png" alt="robot framework" width="80" height="80" />
-  </a>
-  <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="60" height="60" />
-  </a>
-  <a href="https://postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" />
-  </a>
-  <a href="https://putsmail.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.litmus.com/wp-content/themes/litmus/dist/images/litmus-logo.svg" alt="putsmail" height="60" />
-  </a>
-</p>
-
-#### Frequently Used Tools
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="60" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
-  </a>
-</p>
-
-### 👨‍💻 My current focus 
-Currently I'm focused on getting really good with the React/Node stack to build amazing apps and Kotlin/Java, for mobile apps!
- - [x] HTML5
- - [x] CSS3 - Flexbox, Grid and Animations
- - [x] Sass / Scss
- - [x] Pure Modern JavaScript ES6+
- - [x] Bootstrap 
- - [x] Node.js
- - [x] Java
- - [x] TypeScript
- - [x] Next.js
- - [x] Spring Boot
- - [x] React.js
- - [x] Kotlin
- - [x] .NET
- - [ ] (Currently Learning) Redis
- - [ ] (Currently Learning) GraphQL
- - [ ] (Currently Learning) DynamoDB
- - [ ] Swift (iOS)
- - [ ] React Native
- - [ ] Flutter/Dart
- - [ ] Ruby
-
-### 🤖 To the future
-- I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! Besides, I have strong theoretical knowledge in single and multivariable calculus, statistics and linear algebra, which altogether are the basis of this area of study. These studies are on hold due to me focusing more on JavaScript Stuff.
-- When I feel ready enough I want to land on my first Junior Developer Position using the React/Node stack.
-
-### ⚡ Fun Facts
- 🔢 I love math and all math related stuff! </br></br>
- 📝 I'm a co-author in many published papers about Energy from Biomass. You can know more [here!](http://lattes.cnpq.br/5586261982371094)</br></br>
+- 🔢 I have a strong affinity for mathematics and related fields.
+- 📝 I am a co-author of several published papers on Biomass Energy. You can learn more [here](https://www.linkedin.com/in/alexandre-da-costa-pedro-a319b62b/)!
