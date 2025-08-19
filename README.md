@@ -153,13 +153,5 @@ I believe data should inform decisions. My goal is to design analytics that are 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexandrecpedro/alexandrecpedro/output/snake.svg" alt="Snake Animation" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000e0&height=120&section=footer"/>
-
----
-
-<div align="center">
   <strong>✨ Thanks for visiting — let’s turn data into decisions! ✨</strong>
 </div>
