@@ -121,11 +121,10 @@ My recent professional milestones include:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrecpedro&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecpedro&theme=synthwave&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
-  <br/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=synthwave&hide_border=true" alt="Profile Summary" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrecpedro&theme=onedark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=onedark&hide_border=true" alt="Profile Summary" width="80%" />
 </div>
 
 ---
@@ -170,7 +169,7 @@ My core mission is to design reliable, testable, and secure data infrastructure 
 ## 📈 Activity & Visitors
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrecpedro&theme=synthwave&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrecpedro&theme=onedark&hide_border=true" alt="GitHub Activity Graph" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=alexandrecpedro&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
