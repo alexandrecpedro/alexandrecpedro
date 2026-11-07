@@ -120,16 +120,11 @@ My recent professional milestones include:
 
 ## 📊 GitHub Stats
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=onedark&hide_border=true" alt="Profile Summary" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=onedark&hide_border=true" alt="Profile Summary" width="48%" />
+</div>
 
 ---
 
