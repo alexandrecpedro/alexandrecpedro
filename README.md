@@ -121,8 +121,8 @@ My recent professional milestones include:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=alexandrecpedro&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="30%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="30%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alexandrecpedro&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="80%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="80%" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=onedark&hide_border=true" alt="Profile Summary" width="80%" />
 </div>
