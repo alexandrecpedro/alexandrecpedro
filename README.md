@@ -122,7 +122,7 @@ My recent professional milestones include:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrecpedro&theme=onedark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexandrecpedro&theme=onedark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandrecpedro&theme=vue-green&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrecpedro&theme=onedark&hide_border=true" alt="Profile Summary" width="80%" />
 </div>
