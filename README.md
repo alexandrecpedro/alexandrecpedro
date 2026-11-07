@@ -170,7 +170,7 @@ My core mission is to design reliable, testable, and secure data infrastructure 
 ## 📈 Activity & Visitors
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandrecpedro&bg_color=0d1117&color=8000e0&line=85ff12&point=0a855c&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrecpedro&theme=synthwave&hide_border=true" alt="GitHub Activity Graph" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=alexandrecpedro&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
